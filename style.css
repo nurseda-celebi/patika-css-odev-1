@@ -1,0 +1,81 @@
+.title {
+  text-align: center;
+  font-size: 35px;
+  color: rgb(220, 3, 3);
+}
+.NavigationBars {
+  width: 800px;
+  height: 50px;
+  background: rgb(220, 3, 3);
+  border-radius: 4px;
+  display: table;
+  padding: 0;
+  margin: 50px auto;
+}
+.container {
+  margin: 50px auto;
+  width: 800px;
+  padding: 0;
+
+}
+.navbar {
+  display: table-cell;
+  font-size: 18px;
+  vertical-align: middle;
+  text-align: center;
+  list-style: none;
+  cursor: pointer;
+}
+.navbar:hover {
+  background-color: black;
+  color: rgb(220, 3, 3);
+}
+#link {
+  text-align: center;
+  color: white;
+  text-decoration: none;
+}
+#link:hover {
+  color: rgb(220, 3, 3);
+}
+h2{
+  color: rgb(250, 23, 23);
+  text-align: center;
+  font-size: 30px;
+}
+h3{
+  color: rgb(0, 235, 235);
+  text-align: center;
+  font-size: 25px;
+}
+.musicalinstruments{
+  text-decoration: none;
+  font-size: 20px;
+  list-style: georgian;
+}
+
+.musicalinstruments{
+  list-style-position: inside;
+  text-align: center;
+}
+.cardDiv{
+  width: 600px;
+  margin: auto;
+}
+.card{
+  box-shadow: 0 8px 8px 0  rgb(235, 200, 0);
+  transition: 0.2s;
+  width: 450px;
+  height: 500px;
+  margin-bottom: 20px;
+}
+.card:hover{
+  box-shadow: 0 12px 12px 0 rgb(1, 184, 184);
+  
+}
+.container{
+  padding: 2px 16px;
+}
+.Müzik{
+  text-align: center;
+}
